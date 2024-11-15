@@ -7,16 +7,16 @@ Task Allocation App is a lightweight, easy-to-use task management app powered by
 
 🧐 Key Features:
 
-🔹Task management:
+**🔹Task management:**
 Tasks can be easily added, edited, and deleted with details like title and description.
 
-🔹Accountability:
+**🔹Accountability:**
 This assigns a given task to a specific member selected from a drop-down selection menu so that everyone knows who is responsible for what.
 
-🔹Completion Tracking:
+**🔹Completion Tracking:**
 Tasks can be marked as "complete" or reverted to "not complete" to track project completion.
 
-🔹Assignment Management:
+**🔹Assignment Management:**
 Team members can be dynamically added or removed to keep the list of potential assignees fresh.
 
 It comes with a neat and intuitive interface that is best suited for small teams when it comes to organizing and streamlining workflow, thus making allocating and tracking tasks very easy and productive.
